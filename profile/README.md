@@ -1,4 +1,4 @@
-# bio.toast - Bio for Developers
+# 🍞 bio.toast - Bio for Developers
 ## 🔗 Links
 - [website](https://bio.toast.name/)
 - [your bio](https://bio.toast.name/_/self)
